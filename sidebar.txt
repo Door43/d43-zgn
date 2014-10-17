@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zgn:home|Door43 (zgn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zgn|d43-zgn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zgn/archive/master.zip|d43-zgn.zip]]
+
+**Recent Changes**
+{{changes>ns = zgn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zgn|Ethnologue data]]
+
